@@ -3,3 +3,9 @@
 ## Juan David Murillo
 ### Universidad de La Sabana
 #### 2024 - I
+
+
+La URL del front desplegado: https://vite-project-one-steel.vercel.app/
+La URL del back desplegado: https://myapp-hazel-six.vercel.app/
+La URL del repositorio de front desplegado: https://github.com/tefiii1717/Frontend-Proyecto-DWEB
+La URL del respositorio de back desplegado: https://github.com/tefiii1717/Backend-Proyecto-Dweb
